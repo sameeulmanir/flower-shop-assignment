@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    background: rgba(227, 52, 90, 0.1);
+    display: flex;
+    justify-content: space-between;
+}
+
+.greetparabtn {
+    /* margin: 100px 100px; */
+    padding: 200px 700px 200px 300px;
+}
+
+.prime {
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.first-pic{
+    width: 635px;
+height: 800px;
+flex-shrink: 0;
+
+}
